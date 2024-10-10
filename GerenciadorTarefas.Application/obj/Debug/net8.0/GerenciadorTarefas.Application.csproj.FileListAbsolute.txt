@@ -1,0 +1,16 @@
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Application.deps.json
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Application.dll
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Application.pdb
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.AssemblyInfoInputs.cache
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.AssemblyInfo.cs
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.csproj.CoreCompileInputs.cache
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.sourcelink.json
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.dll
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\refint\GerenciadorTarefas.Application.dll
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.pdb
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\ref\GerenciadorTarefas.Application.dll
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Communication.dll
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\bin\Debug\net8.0\GerenciadorTarefas.Communication.pdb
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.csproj.AssemblyReference.cache
+C:\Users\fabio\Desktop\Projetos\GerenciadorTerefas\GerenciadorTarefas.Application\obj\Debug\net8.0\GerenciadorTarefas.Application.csproj.CopyComplete

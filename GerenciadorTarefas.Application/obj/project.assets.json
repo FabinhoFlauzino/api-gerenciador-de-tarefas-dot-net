@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "GerenciadorTarefas.Communication/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GerenciadorTarefas.Communication.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GerenciadorTarefas.Communication.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "GerenciadorTarefas.Communication/1.0.0": {
+      "type": "project",
+      "path": "../GerenciadorTarefas.Communication/GerenciadorTarefas.Communication.csproj",
+      "msbuildProject": "../GerenciadorTarefas.Communication/GerenciadorTarefas.Communication.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "GerenciadorTarefas.Communication >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\fabio\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\fabio\\Desktop\\Projetos\\GerenciadorTerefas\\GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj": {
+              "projectPath": "C:\\Users\\fabio\\Desktop\\Projetos\\GerenciadorTerefas\\GerenciadorTarefas.Communication\\GerenciadorTarefas.Communication.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
